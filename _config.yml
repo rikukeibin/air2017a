@@ -2,7 +2,7 @@ title: The 2nd International Symposium on Artificial Intelligence and Robotics 2
 description: November 25-26, 2017・Nakamura Centenary Memorial Hall, Kitakyushu, Japan
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 
 gems:
   - jekyll-mentions
