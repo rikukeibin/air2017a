@@ -1,0 +1,8 @@
+title: The 2nd International Symposium on Artificial Intelligence and Robotics 2017 (ISAIR2017)
+description: November 25-26, 2017・Nakamura Centenary Memorial Hall, Kitakyushu, Japan
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
